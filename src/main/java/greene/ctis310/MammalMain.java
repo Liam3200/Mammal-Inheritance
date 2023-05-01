@@ -1,7 +1,7 @@
 package greene.ctis310;
 
 /**
- * Hello world!
+ * Liam Greene CTIS 310 5/1/2023
  *
  */
 public class MammalMain {
