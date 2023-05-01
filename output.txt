@@ -1,0 +1,22 @@
+Unsorted array:
+[Age: 57] Name: Whale 0 Size: Huge Diet: Carnivore Ocean: Pacific Species: Orca
+[Age: 28] Name: Human 1 Size: Medium Diet: Omnivore Language: English Country: USA
+[Age: 98] Name: Whale 2 Size: Huge Diet: Carnivore Ocean: Pacific Species: Orca
+[Age: 5] Name: Bear 3 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 2] Name: Bear 4 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 2] Name: Bear 5 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 17] Name: Bear 6 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 87] Name: Human 7 Size: Medium Diet: Omnivore Language: English Country: USA
+[Age: 29] Name: Human 8 Size: Medium Diet: Omnivore Language: English Country: USA
+[Age: 19] Name: Bear 9 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+Sorted array:
+[Age: 2] Name: Bear 4 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 2] Name: Bear 5 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 5] Name: Bear 3 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 17] Name: Bear 6 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 19] Name: Bear 9 Size: Large Diet: Omnivore Color: Black Species: Black Hibernating: false
+[Age: 28] Name: Human 1 Size: Medium Diet: Omnivore Language: English Country: USA
+[Age: 29] Name: Human 8 Size: Medium Diet: Omnivore Language: English Country: USA
+[Age: 57] Name: Whale 0 Size: Huge Diet: Carnivore Ocean: Pacific Species: Orca
+[Age: 87] Name: Human 7 Size: Medium Diet: Omnivore Language: English Country: USA
+[Age: 98] Name: Whale 2 Size: Huge Diet: Carnivore Ocean: Pacific Species: Orca
